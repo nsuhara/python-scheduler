@@ -1,0 +1,4 @@
+.DS_Store
+.venv
+.vscode
+fx_rate/__pycache__
